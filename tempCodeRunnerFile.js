@@ -1,0 +1,1 @@
+Object.keys(tColores).length - 1
